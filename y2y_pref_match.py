@@ -35,7 +35,7 @@ for row in rows:
     else:
         print(f"Skipping {first_name} {last_name}")
 
-# Step 3: Create a graph
+# Create the graph
 G = nx.Graph()
 
 # Add a node to the graph for each volunteer
